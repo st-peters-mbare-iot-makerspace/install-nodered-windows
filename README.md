@@ -1,4 +1,4 @@
-# install-nodered-windows
+# Install Node Red on Windows
 
 1. Download NodeJS (prefereably the Long Term Support(LTS) version here: https://nodejs.org/en/
 2. Install the downloaded NodeJS on your Windows machine.
